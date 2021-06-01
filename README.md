@@ -1,2 +1,5 @@
 # OPCUA_PLC_tests
-Sample Tests to check connectivity between PLCs of different make using the OPC-UA protocol
+An implementation of simple python libraries and OPC-UA communication between PLCs of different make
+
+$ roscore
+
